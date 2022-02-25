@@ -24,3 +24,36 @@
 
 ![11](https://user-images.githubusercontent.com/37560890/155651166-3621da07-b7c2-40bc-b8f4-10e84802fd7a.png)
 
+4.2 Perceptron as a Neural Net ->
+
+![12](https://user-images.githubusercontent.com/37560890/155652200-0a798989-670f-4bd3-a159-4fd58c75ff30.png)
+
+![13](https://user-images.githubusercontent.com/37560890/155652274-1327dc8e-583d-4a5c-b4a9-33a227acd6b6.png)
+
+
+4.3 Define a function for perceptron
+
+Define the function ->
+
+![14](https://user-images.githubusercontent.com/37560890/155652343-af502395-5424-4c67-b774-a4cd2ff5504b.png)
+
+Train ->
+
+![15](https://user-images.githubusercontent.com/37560890/155652410-2f97aa93-1a10-4859-800f-cdb4cfc4a254.png)
+
+4.4 Plotting Decision Boundary
+
+![16](https://user-images.githubusercontent.com/37560890/155652436-187ec731-3b68-45a5-bddd-b04d2534599b.png)
+
+4.5 Training and Plotting
+
+![17](https://user-images.githubusercontent.com/37560890/155652492-7f5acfd5-df24-47ec-8b91-5a1d4e10288f.png)
+
+
+5. Summary & Limitations of Perceptron Algorithm
+
+![18](https://user-images.githubusercontent.com/37560890/155652526-76764325-4f29-4a68-b160-5f173a8b3d69.png)
+
+
+
+
